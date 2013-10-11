@@ -1,0 +1,12 @@
+.externalToolBuilders/
+.settings/
+target/
+activemq-data/
+.classpath
+.checkstyle
+.project
+*.DS_Store
+*.log
+*~
+*.swp
+*.swo
